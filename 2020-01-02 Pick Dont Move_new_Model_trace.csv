@@ -1,0 +1,3 @@
+Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
+49.733173611141,AGV1[2],Model,24.AgentWaitUpdate,[AgentWait] AGENT WAIT,Failed to communicate with agent
+

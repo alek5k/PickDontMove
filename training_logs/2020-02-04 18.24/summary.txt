@@ -1,0 +1,11 @@
+######################################
+algorithm: actor_critic
+num eps: 8000
+discount: 1.0
+learning rate: 1e-05
+started run: 2020-02-04 17:19:04.731984
+ended run: 2020-02-04 18:24:30.244232
+duration: 3925.512248
+max reward: 4.414450001168007 @ episode: 7699
+min reward: -6.422250001112843 @ episode: 4136
+######################################

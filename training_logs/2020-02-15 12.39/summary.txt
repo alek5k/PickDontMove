@@ -1,0 +1,11 @@
+######################################
+algorithm: reinforce
+num eps: 300000
+discount: 1.0
+learning rate: 1e-05
+started run: 2020-02-13 16:49:32.075087
+ended run: 2020-02-15 12:39:54.281538
+duration: 157822.206451
+max reward: 4.685599998862017 @ episode: 174259
+min reward: -14.67890000011539 @ episode: 57163
+######################################
